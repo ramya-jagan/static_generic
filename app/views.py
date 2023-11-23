@@ -6,3 +6,6 @@ def html1(request):
 
 def coff(request):
   return render(request,'coff.html')
+
+def register(request) :
+  return render(request,'register.html') 
