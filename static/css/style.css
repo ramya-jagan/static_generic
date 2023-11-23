@@ -1,0 +1,13 @@
+h1
+{
+  background-color: black;
+  color:white;
+  display: inline-block;
+  align-items:center;
+  text-align: underline;
+  
+}
+img
+{
+  border:1px solid black;
+}
